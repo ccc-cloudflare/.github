@@ -14,5 +14,5 @@
     * https://music.ccckmit.workers.dev/
 * BoardGame 棋藝軒
     * https://boardgame.ccckmit.workers.dev/
-* App-Builder 一句話建立網站 APP
+* App-Builder 一句話建立網站 APP (需自備 LLM 語言模型金鑰, NVIDIA/MiniMax/OpenAI）
     * https://app-builder.ccckmit.workers.dev/
