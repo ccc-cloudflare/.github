@@ -14,5 +14,10 @@
     * https://music.ccckmit.workers.dev/
 * BoardGame 棋藝軒
     * https://boardgame.ccckmit.workers.dev/
+ 
+## 更多
+
+以下只能在 rucloud 上跑，因為我的 cloudflare 是免費版，有 10ms 限制，太短，上傳後無法正確執行
+
 * App-Builder 一句話建立網站 APP (需自備 LLM 語言模型金鑰, NVIDIA/MiniMax/OpenAI）
-    * https://app-builder.ccckmit.workers.dev/
+    *  https://app-builder.ccckmit.workers.dev/
